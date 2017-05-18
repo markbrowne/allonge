@@ -1,0 +1,19 @@
+{
+  "name": "allonge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "higherorder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markbrowne/allonge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markbrowne/allonge/issues"
+  },
+  "homepage": "https://github.com/markbrowne/allonge#readme"
+}

@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/markbrowne/allonge/issues"
   },
-  "homepage": "https://github.com/markbrowne/allonge#readme"
+  "homepage": "https://github.com/markbrowne/allonge#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "sinon": "^2.2.0"
+  }
 }

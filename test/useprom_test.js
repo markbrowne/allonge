@@ -1,6 +1,6 @@
 const expect = require("chai").expect;
 const sinon = require("sinon");
-var prom = require("./prom.js");
+var prom = require("../src/prom.js");
 
 const getSpy = sinon.stub(prom, "get").returns(Promise.resolve([10]));
 
